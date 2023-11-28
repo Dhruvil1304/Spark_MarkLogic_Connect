@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/spark_marklogic_connect_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/marklogic[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/classes/com/marklogic[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/marklogic/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/classes/com/marklogic/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/marklogic/spark/MarkLogicSparkExtractor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/classes/com/marklogic/spark/MarkLogicSparkExtractor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/marklogic/spark/MarkLogicSparkExtractor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dhruvilmodi/IdeaProjects/Spark_MarkLogic_Connect/target/scala-2.13/classes/com/marklogic/spark/MarkLogicSparkExtractor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

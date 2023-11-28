@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.marklogic:data-movement:1.0.0-EA3:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/developer.marklogic.com/maven2/com/marklogic/data-movement/1.0.0-EA3/data-movement-1.0.0-EA3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
